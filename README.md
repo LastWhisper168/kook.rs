@@ -1,6 +1,6 @@
 # KOOK SDK for Rust
 
-一个功能完整的 KOOK（原 Kaiheila）机器人开发框架，使用 Rust 语言编写。
+一个功能完整的 KOOK 机器人开发框架，使用 Rust 语言编写。
 
 ## 项目简介
 
